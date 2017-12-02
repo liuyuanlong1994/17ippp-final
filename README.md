@@ -9,7 +9,7 @@ Authors:
 
   In this study, we attempt to find the correlation between economic activities, and soccer clubs' spending in purchasing players. In other words, will more GDP growth lead to more investment into the soccer transfer market?
 
-  Most soccer clubs all over the world can purchase and sell players on a free market basis across national boundaries. Hence we frequently see wealthy clubs collect talented players from every corner of the world. Often times these wealthy clubs are either in developed countries, such as the UK, France, Germany, Spain and Italy. In other cases, high-profile deals invovle clubs located at emerging markets where their GDP grows much faster than others, ie. China and Saudi Arabia.
+  Most soccer clubs all over the world can purchase and sell players on a free market basis across national boundaries. Hence we frequently see wealthy clubs collect talented players from every corner of the world. Often times, either these wealthy clubs are in developed countries, such as the UK, France, Germany, Spain and Italy; or in other cases, high-profile deals invovle clubs located at emerging markets where their GDP grows much faster than others, ie. China and Saudi Arabia.
 
   Hence, is it likely that the quicker the economy develops, the more investment of its soccer league into purchasing soccer players in the market?
 
