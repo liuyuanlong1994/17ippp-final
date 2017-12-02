@@ -1,6 +1,6 @@
 # Will Economic Growth Drive Soccer Clubs' Spending in Purchasing Players?
 Authors:
-  Tianyuan Bai
+  Tianyuan Bai /
   Yuanlong Liu  
 
   Please read First.ipynb and Second.ipynb for our code and analysis.
