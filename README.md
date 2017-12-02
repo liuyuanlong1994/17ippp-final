@@ -2,7 +2,7 @@
 Authors:
   Tianyuan Bai /
   Yuanlong Liu  
-
+_______________
   Please read First.ipynb and Second.ipynb for our code and analysis.
   
   The codes are initialcode.py for First.ipynb, and nooutlier.py for Second.ipynb.
@@ -10,6 +10,7 @@ Authors:
   For country economic data, please refer to country.csv
   For soccer investment data, please refer to soccer.csv for a comprehensive set of transfer markets; or nooutlier.csv, for our second part analysis without outliers markets.
 
+_______________
   In this study, we attempt to find the correlation between economic activities, and soccer clubs' spending in purchasing players. In other words, will more GDP growth lead to more investment into the soccer transfer market?
 
   Most soccer clubs all over the world can purchase and sell players on a free market basis across national boundaries. Hence we frequently see wealthy clubs collect talented players from every corner of the world. Often times, either these wealthy clubs are in developed countries, such as the UK, France, Germany, Spain and Italy; or in other cases, high-profile deals invovle clubs located at emerging markets where their GDP grows much faster than others, ie. China and Saudi Arabia.
