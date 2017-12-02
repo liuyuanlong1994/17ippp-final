@@ -1,7 +1,4 @@
-# 17ippp-final
-This is a repo for the 2017 Fall ippp final project
-
-Will Economic Growth Drive Soccer Clubs' Spending in Purchasing Players?
+# Will Economic Growth Drive Soccer Clubs' Spending in Purchasing Players?
 Authors:
   Tianyuan Bai
   Yuanlong Liu  
