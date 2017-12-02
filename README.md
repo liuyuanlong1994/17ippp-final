@@ -4,6 +4,8 @@ Authors:
   Yuanlong Liu  
 
   Please read First.ipynb and Second.ipynb for our code and analysis.
+  
+  The codes are initialcode.py for First.ipynb, and nooutlier.py for Second.ipynb.
 
   In this study, we attempt to find the correlation between economic activities, and soccer clubs' spending in purchasing players. In other words, will more GDP growth lead to more investment into the soccer transfer market?
 
