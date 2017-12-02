@@ -6,6 +6,9 @@ Authors:
   Please read First.ipynb and Second.ipynb for our code and analysis.
   
   The codes are initialcode.py for First.ipynb, and nooutlier.py for Second.ipynb.
+  
+  For country economic data, please refer to country.csv
+  For soccer investment data, please refer to soccer.csv for a comprehensive set of transfer markets; or nooutlier.csv, for our second part analysis without outliers markets.
 
   In this study, we attempt to find the correlation between economic activities, and soccer clubs' spending in purchasing players. In other words, will more GDP growth lead to more investment into the soccer transfer market?
 
